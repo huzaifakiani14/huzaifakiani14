@@ -1,13 +1,13 @@
-## 👋 Hi there! I’m Huzaifa Kiani (@huzaifakiani14)
-## Welcome to my corner of the internet! 🌍 Here’s a little about me:
-## 👀 What I’m into: Anything that combines creativity and tech! From machine learning and web development to building tools that make life easier—I'm always up for a challenge.
-## 🌱 What I’m learning: Currently diving into the fascinating world of AI and data science. Also tinkering with full-stack development, so expect projects that bring backend and frontend together seamlessly.
-## 💞️ Collaborate with me: If you're working on something exciting in ML, web apps, or automation, count me in! 🚀 Let's build something awesome.
-## 📫 Reach me at: Feel free to drop me a message at www.linkedin.com/in/huzaifakiani. I’m always happy to connect!
-## 😄 Pronouns: He/Him
-## ⚡ Fun fact: I’m a huge soccer fan ⚽! Whether it’s debating the best players or watching a last-minute goal thriller, soccer keeps me on the edge of my seat.
+<h2>Hi, I'm Huzaifa Kiani!</h2>
+<p style="line-height: 1.5; margin-top: 10px;">
+    <a href="www.linkedin.com/in/huzaifakiani" target="_blank">
+        <img src="https://img.shields.io/badge/-HuzaifaKiani-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+    <a href="https://github.com/huzaifakiani14" target="_blank">
+        <img src="https://img.shields.io/badge/GitHub-huzaifakiani14-blue?style=social" alt="GitHub">
+    </a>
+</p>
 
-<!---
-huzaifakiani14/huzaifakiani14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### A little bit about me...
+
+Welcome to my GitHub! I’m a tech enthusiast with a passion for creativity and innovation. I’m fascinated by the world of AI and data science and currently exploring full-stack development to build solutions that bring backend and frontend together seamlessly. Outside the world of code, I’m a huge soccer fan—whether it’s watching thrilling matches, debating the best players, or playing on the field myself, soccer keeps me energized. Another hobby of mine is exploring fragrances; I enjoy discovering unique scents that match the vibe of the moment. If you’re working on exciting projects in machine learning, web apps, or automation, let’s collaborate and create something amazing. Feel free to explore my repositories, and don’t hesitate to reach out—I’m always happy to connect! 🚀
