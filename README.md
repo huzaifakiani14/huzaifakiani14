@@ -3,6 +3,9 @@
     <a href="www.linkedin.com/in/huzaifakiani" target="_blank">
         <img src="https://img.shields.io/badge/-HuzaifaKiani-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn">
     </a>
+    <a href = "https://ziggydiggy.vercel.app/" target ="_blank">
+        <img src = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.creativefabrica.com%2Fproduct%2Fsoccer-ball-realistic-football-logo-sp%2F&psig=AOvVaw1eRwgcgUYq67wfEbB5_waM&ust=1742867320777000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOiTjO_MoYwDFQAAAAAdAAAAABAE" alt = "Website">
+    </a>
     <a href="https://github.com/huzaifakiani14" target="_blank">
         <img src="https://img.shields.io/badge/GitHub-huzaifakiani14-blue?style=social" alt="GitHub">
     </a>
