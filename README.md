@@ -3,8 +3,8 @@
     <a href="www.linkedin.com/in/huzaifakiani" target="_blank">
         <img src="https://img.shields.io/badge/-HuzaifaKiani-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn">
     </a>
-    <a href = "https://ziggydiggy.vercel.app/" target ="_blank">
-        <img src = "[https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.creativefabrica.com%2Fproduct%2Fsoccer-ball-realistic-football-logo-sp%2F&psig=AOvVaw1eRwgcgUYq67wfEbB5_waM&ust=1742867320777000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOiTjO_MoYwDFQAAAAAdAAAAABAE](https://www.creativefabrica.com/wp-content/uploads/2022/05/01/Soccer-ball-Realistic-football-logo-Sp-Graphics-29926065-1.png)" alt = "Website">
+     <a href="https://ziggydiggy.vercel.app/" target="_blank">
+        <img src="https://www.creativefabrica.com/wp-content/uploads/2022/05/01/Soccer-ball-Realistic-football-logo-Sp-Graphics-29926065-1.png" alt="Website">
     </a>
     <a href="https://github.com/huzaifakiani14" target="_blank">
         <img src="https://img.shields.io/badge/GitHub-huzaifakiani14-blue?style=social" alt="GitHub">
