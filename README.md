@@ -3,7 +3,7 @@
     <a href="www.linkedin.com/in/huzaifakiani" target="_blank">
         <img src="https://img.shields.io/badge/-HuzaifaKiani-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn">
     </a>
-     <a href="https://ziggydiggy.vercel.app/" target="_blank">
+    <a href="https://ziggydiggy.vercel.app/" target="_blank">
         <img src="https://www.creativefabrica.com/wp-content/uploads/2022/05/01/Soccer-ball-Realistic-football-logo-Sp-Graphics-29926065-1.png" alt="Website">
     </a>
     <a href="https://github.com/huzaifakiani14" target="_blank">
