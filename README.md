@@ -7,7 +7,7 @@
 ---
 
 ## 🧭 A little bit about me..
-Welcome to my GitHub! I’m a tech enthusiast with a passion for creativity and innovation. I’m fascinated by the world of AI and data science and currently exploring full-stack development to build solutions that bring backend and frontend together seamlessly. Outside the world of code, I’m a huge soccer fan—whether it’s watching thrilling matches, debating the best players, or playing on the field myself, soccer keeps me energized. Another hobby of mine is exploring fragrances; I enjoy discovering unique scents that match the vibe of the moment. If you’re working on exciting projects in machine learning, web apps, or automation, let’s collaborate and create something amazing. Feel free to explore my repositories, and don’t hesitate to reach out—I’m always happy to connect! 🚀
+Helllooooo jeeeeee!! I'm Huzaifa Kiani AKA Ziggyy, a honors computer engineering student at UMASS Amherst. I'm interested in building fullstack applications and learning about new technologies. My hobbies include playing soccer, skiing, and collecting new fragrances. Feel free to reach out if you want to collaborate on a fullstack application or new AI/ML projects!!
 
 ---
 
@@ -53,4 +53,4 @@ Welcome to my GitHub! I’m a tech enthusiast with a passion for creativity and 
 ---
 
 ## 🤝 Let’s Connect
-I’m always open to collaborating on ML, web apps, and automation projects—feel free to reach out!
+I’m always open to collaborating on fullstack projects, web apps, and automation projects—feel free to reach out!
