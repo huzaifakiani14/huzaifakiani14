@@ -1,6 +1,6 @@
 <h2>Hi, I'm Huzaifa Kiani!</h2>
 <p style="line-height: 1.5; margin-top: 10px;">
-    <a href="www.linkedin.com/in/huzaifakiani" target="_blank">
+    <a href="[www.linkedin.com/in/huzaifakiani](https://www.linkedin.com/in/huzaifakiani/)" target="_blank">
         <img src="https://img.shields.io/badge/-HuzaifaKiani-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn">
     </a>
     <a href="https://github.com/huzaifakiani14" target="_blank">
