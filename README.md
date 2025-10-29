@@ -46,6 +46,7 @@ Helllooooo jeeeeee!! I'm Huzaifa Kiani AKA Ziggyy, a honors computer engineering
 ---
 
 ## 📈 GitHub Highlights
+![Stats](https://github-readme-stats.vercel.app/api?username=huzaifakiani14&show_icons=true&theme=transparent)
 ![2025 Activity (YTD)](https://github-readme-activity-graph.vercel.app/graph?username=huzaifakiani14&from=2025-01-01&to=2025-10-29&theme=github-compact&hide_border=true&area=true)
 ![Streak](https://streak-stats.demolab.com?user=huzaifakiani14&theme=transparent&hide_border=true&v=2025)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huzaifakiani14&layout=compact&theme=transparent)
