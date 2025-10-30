@@ -52,6 +52,3 @@ Helllooooo jeeeeee!! I'm Huzaifa Kiani AKA Ziggyy, a honors computer engineering
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huzaifakiani14&layout=compact&theme=transparent)
 
 ---
-
-## 🤝 Let’s Connect
-I’m always open to collaborating on fullstack projects, web apps, and automation projects—feel free to reach out!
