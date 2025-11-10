@@ -7,7 +7,7 @@
 ---
 
 ## 🧭 A little bit about me..
-Helllooooo jeeeeee!! I'm Huzaifa Kiani AKA Ziggyy, a honors computer engineering student at UMASS Amherst. I'm interested in building fullstack applications and learning about new technologies. My hobbies include playing soccer, skiing, and collecting new fragrances. Feel free to reach out if you want to collaborate on a fullstack application or new AI/ML projects!!
+Helllooooo jeeeeee!! I'm Huzaifa Kiani AKA Ziggyy, a honors computer engineering student at UMASS Amherst. I'm interested in building fullstack applications and learning about new technologies. My hobbies include playing soccer, skiing, and collecting new fragrances. Feel free to reach out if you want to collaborate on a fullstack application or new AI/ML projects!
 
 ---
 
